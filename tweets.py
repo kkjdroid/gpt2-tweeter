@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import twitter
 
 def tweets(name = 'realdonaldtrump', filename = 'timeline.txt', concatenate = False):
